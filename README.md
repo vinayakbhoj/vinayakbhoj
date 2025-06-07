@@ -17,7 +17,7 @@
 ### 🎮 [Simon Say Game](https://github.com/vinayakbhoj/Simon_Say_Game)
 - Memory game built with pure JavaScript.
 
-### 🎵 [Spotify Landing Page](https://github.com/vinayakbhoj/Spotify---Landing-Page))
+### 🎵 [Spotify Landing Page](https://github.com/vinayakbhoj/Spotify---Landing-Page)
 - Responsive landing page inspired by Spotify.
 
 ## 📈 GitHub Stats
