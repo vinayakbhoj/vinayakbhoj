@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Vinayak Bhoj
 
-<!--
-**vinayakbhoj/vinayakbhoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd-year B.E. Computer Engineering student (2022–26) passionate about web development, mobile apps, and blockchain tech.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript, Bootstrap, EJS, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB, REST APIs
+- **Others:** Git, GitHub, Postman, Render, Vercel, Cloudinary, Passport.js
+- **Learning:** React Native, Web3, Solidity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🌍 [Waanderlust – Airbnb Clone](https://github.com/vinayakbhoj/Waanderlust)
+- Full-stack MERN application for listings, bookings, and reviews.
+- Image uploads with Cloudinary, sessions with MongoDB, Passport.js authentication.
+
+### 🎮 [Simon Say Game](https://github.com/vinayakbhoj)
+- Memory game built with pure JavaScript.
+
+### 🎵 [Spotify Landing Page](https://github.com/vinayakbhoj)
+- Responsive landing page inspired by Spotify.
+
+## 📈 GitHub Stats
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakbhoj&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakbhoj&layout=compact&theme=github_dark)
+
+## 📫 Connect with me
+- 🔗 LinkedIn: [vinayak-bhoj31](https://www.linkedin.com/in/vinayak-bhoj31)
+- 💼 Portfolio: Coming Soon
