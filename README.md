@@ -14,7 +14,7 @@
 - Full-stack MERN application for listings, bookings, and reviews.
 - Image uploads with Cloudinary, sessions with MongoDB, Passport.js authentication.
 
-### 🎮 [Simon Say Game](https://github.com/vinayakbhoj)
+### 🎮 [Simon Say Game](https://github.com/vinayakbhoj/Simon_Say_Game)
 - Memory game built with pure JavaScript.
 
 ### 🎵 [Spotify Landing Page](https://github.com/vinayakbhoj)
