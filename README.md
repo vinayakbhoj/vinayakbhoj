@@ -25,8 +25,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakbhoj&layout=compact&theme=github_dark)
 
 ## 📫 Connect with me
-- 🔗 LinkedIn: [vinayak-bhoj31](https://www.linkedin.com/in/vinayak-bhoj31)
+- 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinayak-bhoj31)
+  
 - 💼 Portfolio:   [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-Webflow-blue?style=for-the-badge)](https://vinayak-portfolio-75fa05.webflow.io/)
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinayak-bhoj31)
 
