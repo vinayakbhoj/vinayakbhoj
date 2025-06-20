@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinayak Bhoj
 
-🎓 I'm a 3rd-year B.E. Computer Engineering student (2022–26) passionate about web development, mobile apps, and blockchain tech.
+🎓 I'm a Final-year B.E. Computer Engineering student (2022–26) passionate about web development, mobile apps, and blockchain tech.
 
 ## 💻 Tech Stack
 - **Frontend:** React, HTML, CSS, JavaScript, Bootstrap, EJS, Tailwind CSS
