@@ -31,6 +31,6 @@
 ## 📫 Connect with me
 - 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinayak-bhoj31)
   
-- 💼 Portfolio:   [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-Webflow-blue?style=for-the-badge)](https://vinayak-portfolio-ten.vercel.app/)
+- 💼 Portfolio:   [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-Versal-blue?style=for-the-badge)](https://vinayak-portfolio-ten.vercel.app/)
 
 
