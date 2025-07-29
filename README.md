@@ -4,9 +4,10 @@
 
 ## 💻 Tech Stack
 - **Frontend:** React, HTML, CSS, JavaScript, Bootstrap, EJS, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB, REST APIs
-- **Others:** Git, GitHub, Postman, Render, Vercel, Cloudinary, Passport.js
-- **Learning:** React Native, Web3, Solidity
+- **Backend:** Node.js, Express.js, REST APIs, Java(DSA)
+- **Database:** MongoDB, mySQL Server
+- **Others:** Git, GitHub, Postman, Render, Vercel, Cloudinary, Appwrite
+
 
 ## 🚀 Projects
 
@@ -21,8 +22,6 @@
 ### 🎮 [Simon Say Game](https://github.com/vinayakbhoj/Simon_Say_Game)
 - Memory game built with pure JavaScript.
 
-### 🎵 [Spotify Landing Page](https://github.com/vinayakbhoj/Spotify---Landing-Page)
-- Responsive landing page inspired by Spotify.
 
 ## 📈 GitHub Stats
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakbhoj&show_icons=true&theme=github_dark)
