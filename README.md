@@ -11,9 +11,9 @@
 
 ## 🚀 Projects
 
-### 🎮 [QuickClicks](https://github.com/vinayakbhoj/Simon_Say_Game)
+### 🎮 [QuickClicks](https://github.com/vinayakbhoj/QuickClicks)
 - A Full Stack E-Com web app using Spring framework and React framwork with MySQL database.
-- Jwt Authentication with Admin ,orders handlind and Payment Gateway with Razorpay.
+- Jwt Authentication with Admin ,orders handling and Payment Gateway with Razorpay.
   
 ### 🌍 [Waanderlust – Airbnb Clone](https://github.com/vinayakbhoj/Waanderlust)
 - Full-stack MERN application for listings, bookings, and reviews.
