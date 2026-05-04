@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=vinayakbhoj&style=for-the-badge)
 </div>
 
 <img src="https://www.shutterstock.com/image-vector/programmer-coding-on-dual-monitors-600w-2701611177.jpg" alt="Banner of a developer sitting in front of a desk">
@@ -26,11 +26,6 @@
 </div>
 
 <hr>
-
-
-# 👋 Hi, I'm Vinayak
-
-🎓 I'm a Final-year B.E. Computer Engineering student (2022–26) Learning, Experimenting and Building user-centric web applications.
 
 ## ⚡️ Stats
 
