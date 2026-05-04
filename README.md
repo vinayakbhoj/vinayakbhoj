@@ -1,26 +1,28 @@
 # 👋 Hi, I'm Vinayak Bhoj
 
-🎓 I'm a Final-year B.E. Computer Engineering student (2022–26) passionate about web development, mobile apps, and blockchain tech.
+🎓 I'm a Final-year B.E. Computer Engineering student (2022–26) Learnig, Experimenting and Building Projects on web development, Ai and DevOps tech.
 
 ## 💻 Tech Stack
 - **Frontend:** React, HTML, CSS, JavaScript, Bootstrap, EJS, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs, Java(DSA)
-- **Database:** MongoDB, mySQL Server
-- **Others:** Git, GitHub, Postman, Render, Vercel, Cloudinary, Appwrite
+- **Backend:** Spring Boot, Java, Node.js, Express.js, REST APIs, Java(DSA)
+- **Database:** MongoDB, MySQL.
+- **Others:** Docker, Git, GitHub, Postman, Render, Vercel, Cloudinary, Appwrite
 
 
 ## 🚀 Projects
 
+### 🎮 [QuickClicks](https://github.com/vinayakbhoj/Simon_Say_Game)
+- A Full Stack E-Com web app using Spring framework and React framwork with MySQL database.
+- Jwt Authentication with Admin ,orders handlind and Payment Gateway with Razorpay.
+  
 ### 🌍 [Waanderlust – Airbnb Clone](https://github.com/vinayakbhoj/Waanderlust)
 - Full-stack MERN application for listings, bookings, and reviews.
 - Image uploads with Cloudinary, sessions with MongoDB, Passport.js authentication.
 
-### ☁️	 [Goggle Drive - Clone](https://github.com/vinayakbhoj/Drive-Clone.git)
-- Goggle Drive-Clone
-- Uploading files with Cloudinary, with MongoDB, authentication.
+### ☁️	 [Real-Time Chat Application](https://github.com/vinayakbhoj/Drive-Clone.git)
+- Full-Stack web app using Spring framework and React.
+- Making Real time chat using Websocket.
 
-### 🎮 [Simon Say Game](https://github.com/vinayakbhoj/Simon_Say_Game)
-- Memory game built with pure JavaScript.
 
 
 ## 📈 GitHub Stats
