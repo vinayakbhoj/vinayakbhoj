@@ -35,6 +35,17 @@
 
 <hr>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,expressjs,mongodb,mysql,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,redux,git,postman,docker" />
+</p>
+
+<hr>
+
 ## 📫 Connect with me
 - 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinayak-bhoj31)
   
