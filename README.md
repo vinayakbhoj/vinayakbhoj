@@ -23,20 +23,14 @@
 - Full-Stack web app using Spring framework and React.
 - Making Real time chat using Websocket.
 
-
-
-## 📈 GitHub Stats
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakbhoj&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakbhoj&layout=compact&theme=github_dark)
-
 ## ⚡️ Stats
 
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=vinayakbhoj&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="vinayakbhoj's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakbhoj&theme=transparent&count_private=true&border_radius=10&locale=en" alt="vinayakbhoj's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakbhoj&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="vinayakbhoj's Most Used Languages" />
 </div>
 
 <hr>
