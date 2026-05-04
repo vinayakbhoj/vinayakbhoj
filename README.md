@@ -1,6 +1,36 @@
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/vinayakbhoj/count.svg" alt="Visitor's Count" />
+</div>
+
+<img src="https://github.com/vinayakbhoj/vinayakbhoj/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Vinayak+Bhoj!;" />
+</h1>
+
+### A full-stack software Developer passionate about Learning, Experimenting and Building user-centric web applications.
+
+- 🌱 I’m currently learning **[System Design](https://github.com/ashishps1/awesome-system-design-resources)**
+- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/vinayakbhoj/vinayakbhoj/issues)**
+
+<br>
+
+<div align="center">
+  <a href="vinaykbhoj31@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="http://www.linkedin.com/in/vinayak-bhoj31" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
+
 # 👋 Hi, I'm Vinayak
 
-🎓 I'm a Final-year B.E. Computer Engineering student (2022–26) Learnig, Experimenting and Building Projects on web development, Ai and DevOps tech.
+🎓 I'm a Final-year B.E. Computer Engineering student (2022–26) Learning, Experimenting and Building user-centric web applications.
 
 ## 💻 Tech Stack
 - **Frontend:** React, HTML, CSS, JavaScript, Bootstrap, EJS, Tailwind CSS
