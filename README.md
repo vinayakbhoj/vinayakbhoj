@@ -1,9 +1,9 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://www.shutterstock.com/image-vector/programmer-coding-on-dual-monitors-600w-2701611177.jpg" alt="Visitor's Count" />
+  ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 </div>
 
-<img src="https://github.com/vinayakbhoj/vinayakbhoj/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+<img src="https://www.shutterstock.com/image-vector/programmer-coding-on-dual-monitors-600w-2701611177.jpg" alt="Banner of a developer sitting in front of a desk">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Vinayak+Bhoj!;" />
@@ -31,27 +31,6 @@
 # 👋 Hi, I'm Vinayak
 
 🎓 I'm a Final-year B.E. Computer Engineering student (2022–26) Learning, Experimenting and Building user-centric web applications.
-
-## 💻 Tech Stack
-- **Frontend:** React, HTML, CSS, JavaScript, Bootstrap, EJS, Tailwind CSS
-- **Backend:** Spring Boot, Java, Node.js, Express.js, REST APIs, Java(DSA)
-- **Database:** MongoDB, MySQL.
-- **Others:** Docker, Git, GitHub, Postman, Render, Vercel, Cloudinary, Appwrite
-
-
-## 🚀 Projects
-
-### 🎮 [QuickClicks](https://github.com/vinayakbhoj/QuickClicks)
-- A Full Stack E-Com web app using Spring framework and React framwork with MySQL database.
-- Jwt Authentication with Admin ,orders handling and Payment Gateway with Razorpay.
-  
-### 🌍 [Waanderlust – Airbnb Clone](https://github.com/vinayakbhoj/Waanderlust)
-- Full-stack MERN application for listings, bookings, and reviews.
-- Image uploads with Cloudinary, sessions with MongoDB, Passport.js authentication.
-
-### ☁️	 [Real-Time Chat Application](https://github.com/vinayakbhoj/Real-Time-Chat-Application)
-- Full-Stack web app using Spring framework and React.
-- Making Real time chat using Websocket.
 
 ## ⚡️ Stats
 
