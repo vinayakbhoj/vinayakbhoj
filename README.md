@@ -1,6 +1,3 @@
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=vinayakbhoj&style=for-the-badge)
-</div>
 
 <div align="center">
   <img src="https://www.shutterstock.com/image-vector/programmer-coding-on-dual-monitors-600w-2701611177.jpg" alt="Banner of a developer sitting in front of a desk">
@@ -56,5 +53,6 @@
 - 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinayak-bhoj31)
   
 - 💼 Portfolio:   [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-Versal-blue?style=for-the-badge)](https://vinayak-portfolio-ten.vercel.app/)
+- Profile Visitors:   ![](https://komarev.com/ghpvc/?username=vinayakbhoj&style=for-the-badge)
 
 
