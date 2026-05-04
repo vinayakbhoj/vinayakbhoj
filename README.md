@@ -19,7 +19,7 @@
 - Full-stack MERN application for listings, bookings, and reviews.
 - Image uploads with Cloudinary, sessions with MongoDB, Passport.js authentication.
 
-### ☁️	 [Real-Time Chat Application](https://github.com/vinayakbhoj/Drive-Clone.git)
+### ☁️	 [Real-Time Chat Application](https://github.com/vinayakbhoj/Real-Time-Chat-Application)
 - Full-Stack web app using Spring framework and React.
 - Making Real time chat using Websocket.
 
