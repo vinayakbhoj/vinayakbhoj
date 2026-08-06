@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img src="https://www.shutterstock.com/image-vector/programmer-coding-on-dual-monitors-600w-2701611177.jpg" alt="Banner of a developer sitting in front of a desk">
-</div>
+
 
 
 <h1 align="center">
